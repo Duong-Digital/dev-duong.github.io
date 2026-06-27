@@ -16,7 +16,7 @@ const SocialLinks = ({ size = "sm" }) => {
     <div className="flex gap-4 p-5">
       {/* GitHub Link */}
       <a
-        href="https://github.com/dev-duong"
+        href="https://github.com/duong-digital"
         target="_blank"
         rel="noopener noreferrer"
         className={

@@ -21,7 +21,7 @@ const projectsData = [
       "React Router",
       "GitHub Pages",
     ],
-    link: "https://dev-duong.github.io/",
+    link: "https://duong-digital.github.io/",
   },
   // Portfolio V1
   {
@@ -31,7 +31,7 @@ const projectsData = [
     description:
       "A Static portfolio website built using HTML and CSS, showcasing my skills.",
     techStack: ["HTML", "CSS", "GitHub Pages"],
-    link: "https://dev-duong.github.io/portfolio-v1",
+    link: "https://duong-digital.github.io/portfolio-v1",
   },
   // Web Calculator
   {
@@ -41,7 +41,7 @@ const projectsData = [
     description:
       "A web-based calculator built using HTML, CSS, and JavaScript, providing basic arithmetic functionality with a user-friendly interface.",
     techStack: ["HTML", "CSS", "JavaScript"],
-    link: "https://dev-duong.github.io/calculator",
+    link: "https://duong-digital.github.io/calculator",
   },
   // Portfolio [Mobile]
   {
@@ -50,7 +50,7 @@ const projectsData = [
     description:
       "A website portfolio built using HTML, and CSS. [Built for only mobile]",
     techStack: ["HTML", "CSS"],
-    link: "https://dev-duong.github.io/mobile-portfolio",
+    link: "https://duong-digital.github.io/mobile-portfolio",
   },
   // Travel Site
   {
@@ -59,7 +59,7 @@ const projectsData = [
     description:
       "A Static portfolio website built using HTML and CSS adhering to the requirements of Web Content Accessibility Guidelines (WCAG)",
     techStack: ["HTML", "CSS"],
-    link: "https://dev-duong.github.io/Resposive-Travel-Website",
+    link: "https://duong-digital.github.io/Resposive-Travel-Website",
   },
   // Linktree
   {
@@ -68,7 +68,7 @@ const projectsData = [
     description:
       "A simple web profile card built using HTML, CSS, and JavaScript. Acts similarly to Linktree.",
     techStack: ["HTML", "CSS", "JavaScript"],
-    link: "https://dev-duong.github.io/profile-card/",
+    link: "https://duong-digital.github.io/profile-card/",
   },
   // Mushroom Font
   {

@@ -14,7 +14,7 @@ const Home = () => {
       <main className="pt-16 px-4 w-full max-w-[90%] sm:max-w-[80%] md:max-w-[60%] lg:max-w-[50%] xl:max-w-[40%] mx-auto flex flex-col justify-center flex-grow pb-20 md:pb-0">
         {/* Body */}
         <article className="h-[calc(100vh-80px)] mt-[-80px] flex items-center justify-center">
-          <section className="flex flex-col text-center gap-4">
+          <section className="flex flex-col gap-4 text-center">
             <h1 className="text-6xl font-bold whitespace-nowrap">Dat Duong</h1>
             <Typewriter words={["Web Developer", "UI/UX Designer"]} />
           </section>

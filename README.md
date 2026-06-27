@@ -1,4 +1,4 @@
-# 🚀 Dev-Duong Portfolio
+# 🚀 Duong Digital Portfolio
 
 > **A modern, responsive personal portfolio built with React and Tailwind CSS, deployed on GitHub Pages.**
 
@@ -41,8 +41,8 @@ This project is a personal portfolio website to showcase my projects, skills, an
 ### Installation
 
 ```bash
-git clone https://github.com/dev-duong/dev-duong.github.io.git
-cd dev-duong.github.io
+git clone https://github.com/duong-digital/duong-digital.github.io.git
+cd duong-digital.github.io
 npm install
 ```
 
@@ -66,7 +66,7 @@ npm run deploy
 ```
 
 Your site will be live at:  
-🔗 [https://dev-duong.github.io](https://dev-duong.github.io)
+🔗 [https://duong-digital.github.io](https://duong-digital.github.io)
 
 ---
 
@@ -91,5 +91,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Contact
 
-- [GitHub](https://github.com/dev-duong)
-- [Portfolio](https://dev-duong.github.io)
+- [GitHub](https://github.com/duong-digital)
+- [Portfolio](https://duong-digital.github.io)

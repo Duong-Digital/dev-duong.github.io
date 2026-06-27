@@ -20,7 +20,7 @@ represents my skills and growth as a developer.
 ### 🥅 Development Goals:
 
 - Add admin page for personal use:
-  - `dev-duong.github.io/admin`
+  - `duong-digital.github.io/admin`
     - Includes a button linking to an editable CV page (`/admin/edit-cv`)
       - Save resume data locally (e.g., with `localStorage`)
       - Automatically update a public resume page (`/cv`) with the latest edited content
